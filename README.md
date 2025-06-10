@@ -47,4 +47,4 @@ The analysis integrates:
    - `pandas`
    - `numpy`
 ---
-### This project is shared under the MIT License contact me
+### This project is shared under the MIT License. Please contact me via: omerekmelkara@gmail.com
